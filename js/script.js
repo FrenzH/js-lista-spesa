@@ -10,7 +10,7 @@ while (i < ArrList.length) {
 
 
     
-    ShoppingListHTMLElement.innerHTML += `<div> ${ArrList[i]} </div>`;
+    ShoppingListHTMLElement.innerHTML += `<li> ${ArrList[i]} </li>`;
     
     i++;
 }
