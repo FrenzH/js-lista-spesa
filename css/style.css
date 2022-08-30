@@ -1,0 +1,30 @@
+/* generics */
+
+* {
+    box-sizing: border-box;
+    margin: 0px;
+    padding: 0px;
+  }
+  
+  body {
+    font-family: sans-serif;
+    background-color: black;
+  }
+
+
+
+  .container{
+    background-color: white;
+    max-width: 1200px;
+    margin: auto;
+    height: 400px;
+  }
+
+
+
+  /*UTILITIES*/
+  
+
+  .text-center{
+    text-align: center;
+  }
