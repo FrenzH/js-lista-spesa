@@ -6,7 +6,7 @@ const ShoppingListHTMLElement = document.getElementById('shopping-list')
 
 let i = 0;
 
-while (i < ArrList.lenght) {
+while (i < ArrList.length) {
 
 
     
